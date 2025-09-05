@@ -4,7 +4,7 @@ A MERN stack Skill Swap Platform where users list skills they offer and request 
 Features include search, scheduling, real-time updates, feedback, and admin moderation.
 Designed where people list skills they **offer**, request skills they **want**, schedule by **availability**, and complete swaps with **requests, acceptance, and feedback**. Includes **public/private profiles**, **search by skill**, **admin moderation**, and **real‑time updates** via Socket.IO.
 
-> 🎥 **Demo video:** \[YouTube – paste your link here]
+> 🎥 **Demo video:** \[YouTube – https://youtu.be/PmnSpEmUzPM]
 >
 > 🖼️ **Screenshots:**
 
@@ -353,4 +353,5 @@ npm run dev       # vite on :5173
 * Search results filter: `isPublic=true`.
 * Banned users cannot submit requests (UI disables submit; API rejects with 403).
 * Request deletion allowed only while status = `pending`.
+
 
